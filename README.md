@@ -1,1 +1,1 @@
-Implementation of the problems solved in the Leetcode in Javascript 50 Algorithms Coding Interview Questions course on udemy, as well as the implementation of the algorithms and data structures explained in the course
+Implementation of the problems solved in the Leetcode in Javascript 50 Algorithms Coding Interview Questions course on udemy, as well as the implementation of the algorithms and data structures shown in the course
